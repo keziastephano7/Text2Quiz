@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDUg7Fnj7ibGiAcUM38jw83IPdUFjIPwTA',
-    appId: '1:610689278779:web:af939544ffdf8ead58cd1e',
-    messagingSenderId: '610689278779',
-    projectId: 'text-quiz-f0488',
-    authDomain: 'text-quiz-f0488.firebaseapp.com',
-    storageBucket: 'text-quiz-f0488.firebasestorage.app',
+    apiKey: 'google_api_key',
+    appId: 'google_api_id',
+    messagingSenderId: 'sender_id',
+    projectId: 'proj_id',
+    authDomain: 'text-quiz.firebaseapp.com',
+    storageBucket: 'text-quiz.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJyxOx_7bVVAiHwX-jqcZmkn9QxEXfVxA',
-    appId: '1:610689278779:android:f53487636be4cdfb58cd1e',
-    messagingSenderId: '610689278779',
-    projectId: 'text-quiz-f0488',
-    storageBucket: 'text-quiz-f0488.firebasestorage.app',
+    apiKey: 'google_api_key',
+    appId: 'google_api_id',
+    messagingSenderId: 'sender_id',
+    projectId: 'proj_id',
+    storageBucket: 'text-quiz.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB6cpIoo5vQ5jf2qlSSSJWd7If9m5gsnn8',
-    appId: '1:610689278779:ios:402440dc6d521b5858cd1e',
-    messagingSenderId: '610689278779',
-    projectId: 'text-quiz-f0488',
-    storageBucket: 'text-quiz-f0488.firebasestorage.app',
+    apiKey: 'google_api_key',
+    appId: 'google_api_id',
+    messagingSenderId: 'sender_id',
+    projectId: 'proj_id',
+    storageBucket: 'text-quiz.firebasestorage.app',
     iosBundleId: 'com.example.dashboard',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB6cpIoo5vQ5jf2qlSSSJWd7If9m5gsnn8',
-    appId: '1:610689278779:ios:402440dc6d521b5858cd1e',
-    messagingSenderId: '610689278779',
-    projectId: 'text-quiz-f0488',
-    storageBucket: 'text-quiz-f0488.firebasestorage.app',
+    apiKey: 'google_api_key',
+    appId: 'google_api_id',
+    messagingSenderId: 'sender_id',
+    projectId: 'proj_id',
+    storageBucket: 'text-quiz.firebasestorage.app',
     iosBundleId: 'com.example.dashboard',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDUg7Fnj7ibGiAcUM38jw83IPdUFjIPwTA',
-    appId: '1:610689278779:web:5b607027862eb01458cd1e',
-    messagingSenderId: '610689278779',
-    projectId: 'text-quiz-f0488',
-    authDomain: 'text-quiz-f0488.firebaseapp.com',
-    storageBucket: 'text-quiz-f0488.firebasestorage.app',
+    apiKey: 'google_api_key',
+    appId: 'google_api_id',
+    messagingSenderId: 'sender_id',
+    projectId: 'proj_id',
+    authDomain: 'text-quiz.firebaseapp.com',
+    storageBucket: 'text-quiz.firebasestorage.app',
   );
 }
