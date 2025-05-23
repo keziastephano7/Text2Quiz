@@ -11,7 +11,6 @@
 - **Multiple Choice**: Each question includes 4 options with one correct answer.
 - **User Authentication**: Secure login/signup with **Firebase Authentication**.
 - **Personalized Dashboard**: Save prompts, view quiz history, and track quiz attempts.
-- **Beautiful UI**: Glassmorphic design, smooth navigation, and mobile responsiveness.
 - **Quiz History**: Review previous quizzes and see your answers vs. the correct ones.
 
 ---
